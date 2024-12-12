@@ -23,7 +23,6 @@ Hi there
 
 - 🔭 I'm interested in <strong> Data Analyst <strong> <strong> Artificial Intelligence  </strong> and <strong> Data Science.</strong>
 - 🌱 I love <strong> research </strong> and <strong> development.</strong>
-- 🤔 I am currently looking for a  <strong> job. </strong>
 - 💬 Ask me about anything.
 - 📫 How to reach me: vahdeddinsa@gmail.com
 - 🌍 I'm based in <strong> Turkey.</strong>
