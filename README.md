@@ -21,7 +21,7 @@ Hi there
 <a href="https://github.com/vahdeddin/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
 
-- 🔭 I'm interested in <strong> Artificial Intelligence </strong> and <strong> Data Science.</strong>
+- 🔭 I'm interested in <strong> Data Analyst <strong> <strong> Artificial Intelligence  </strong> and <strong> Data Science.</strong>
 - 🌱 I love <strong> research </strong> and <strong> development.</strong>
 - 🤔 I am currently looking for a  <strong> job. </strong>
 - 💬 Ask me about anything.
